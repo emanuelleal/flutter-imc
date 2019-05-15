@@ -1,4 +1,4 @@
-package flutter.com.flutter_app;
+package flutter.com.register;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
